@@ -1,0 +1,7 @@
+C:\Users\qiu96\source\repos\FruitBasket\FruitBasket\bin\Debug\FruitBasket.exe.config
+C:\Users\qiu96\source\repos\FruitBasket\FruitBasket\bin\Debug\FruitBasket.exe
+C:\Users\qiu96\source\repos\FruitBasket\FruitBasket\bin\Debug\FruitBasket.pdb
+C:\Users\qiu96\source\repos\FruitBasket\FruitBasket\obj\Debug\FruitBasket.csprojAssemblyReference.cache
+C:\Users\qiu96\source\repos\FruitBasket\FruitBasket\obj\Debug\FruitBasket.csproj.CoreCompileInputs.cache
+C:\Users\qiu96\source\repos\FruitBasket\FruitBasket\obj\Debug\FruitBasket.exe
+C:\Users\qiu96\source\repos\FruitBasket\FruitBasket\obj\Debug\FruitBasket.pdb
